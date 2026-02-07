@@ -1,0 +1,19 @@
+1. Explique, com suas palavras, o que é machine learning?
+-> R. É uma area de IA onde o sistema aprende utilizando os dado a identificar padrões para realizar tomadas de decisões ou fazer previsões futuras.
+
+2. Explique o conceito de conjunto de treinamento, conjunto de validação e 
+conjunto de teste em machine learning.
+-> R. O de treinamento é usada para ensinar o modelo, o de validação ajusta o modelo e o de teste avalia o desempenho do modelo.
+
+3. Explique como você lidaria com dados ausentes em um conjunto de dados 
+de treinamento.
+-> R. Utilizando estatísica, como a média, mediana e moda
+
+4. O que é uma matriz de confusão e como ela é usada para avaliar o 
+desempenho de um modelo preditivo?
+-> R. Ela compara os valores reais com os valores previstos pelo modelo. 
+
+5. Em quais áreas (tais como construção civil, agricultura, saúde, manufatura, 
+entre outras) você acha mais interessante aplicar algoritmos de machine 
+learning?
+-> R. Acredito que é possível realizar uma grande evolução utilizando ML na área de saúde. 
